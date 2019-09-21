@@ -58,7 +58,7 @@ You can insert text in here.
 You can insert text in here.
 ```
 
-* You can give code/commands here for receifing traffic or additionally put it into *src* folder.
+* You can give code/commands here for receiving traffic or additionally put it into *src* folder.
 ```python
 You can insert your code here
 ```
